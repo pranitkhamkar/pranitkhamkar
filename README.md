@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranitkhamkar
 - 👀 I’m interested in 
-- 🌱 I’m currently learning C,Cpp,DataStrct,Algorithm
+- 🌱 I’m currently learning C,Cpp,DataStrct,Algorithm,html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pranitbkhamkar@gmail.com
 
